@@ -1,0 +1,71 @@
+{
+  "place": [
+    "수내",
+    "미금",
+    "정자"
+  ],
+  "foodCategory": [
+    {
+      "code": 1,
+      "category": "한식(밥)"
+    },{
+      "code": 2,
+      "category": "한식(면)"
+    },{
+      "code": 3,
+      "category": "중식"
+    },{
+      "code": 4,
+      "category": "일식(초밥, 회)"
+    },{
+      "code": 5,
+      "category": "일식(덮밥, 라멘)"
+    },{
+      "code": 6,
+      "category": "분식"
+    }
+  ],
+  "data" : {
+    "place": "수내(본사)",
+    "restaurants": [
+      {
+        "name": "낙낙한식당",
+        "categoryCode": 1,
+        "menuKey": [
+          "낙지",
+          "칼국수",
+          "비빔밥"
+        ],
+        "location": null
+      },{
+        "name": "일면식칼국수",
+        "categoryCode": 2,
+        "menuKey": [
+          "칼국수"
+        ],
+        "location": null
+      },{
+        "name": "청실홍실(수내직영점)",
+        "categoryCode": 2,
+        "menuKey": [
+          "밀국수",
+          "우동",
+          "돈까스",
+          "만두"
+        ],
+        "location": null
+      },{
+        "name": "홍콩반점",
+        "categoryCode": 3,
+        "menuKey": [
+          "짜장면",
+          "짬뽕",
+          "탕수육"
+        ],
+        "location": null
+      }
+    ]
+
+
+  }
+}
